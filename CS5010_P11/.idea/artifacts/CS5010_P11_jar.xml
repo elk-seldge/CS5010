@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS5010_P11:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS5010_P11_jar</output-path>
+    <root id="archive" name="CS5010_P11.jar">
+      <element id="module-output" name="CS5010_P11" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/byte-buddy-1.14.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/objenesis-3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/byte-buddy-agent-1.14.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
